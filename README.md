@@ -114,3 +114,5 @@ Explore LSTM Recurrent Neural Network and Simple Signal Rolling Agent implemente
 
 Explore various results, agents, and simulations for stock prediction and analysis. These include agent performance, signal predictions, analysis of outliers, overbought-oversold studies, and more.
 
+The original implementation and data credits go to their respective authors. This information is presented here for personal understanding and educational purposes.
+
